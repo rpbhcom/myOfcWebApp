@@ -1,9 +1,9 @@
-package com.example.yorbit.repository;
+package com.example.myOfc.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.example.yorbit.model.User;
+import com.example.myOfc.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long>{

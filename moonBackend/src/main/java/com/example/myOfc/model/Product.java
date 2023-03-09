@@ -1,4 +1,4 @@
-package com.example.yorbit.model;
+package com.example.myOfc.model;
 
 import java.util.List;
 

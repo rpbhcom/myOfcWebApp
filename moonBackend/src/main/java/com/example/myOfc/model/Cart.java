@@ -1,4 +1,4 @@
-package com.example.yorbit.model;
+package com.example.myOfc.model;
 
 import javax.persistence.Column;
 import javax.persistence.EmbeddedId;
